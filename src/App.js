@@ -7,6 +7,7 @@ export default () =>
       <ul>
         <li>About</li>
         <li>Contact</li>
+        <li>Another Link</li>
       </ul>
     </nav>
   </header>;
